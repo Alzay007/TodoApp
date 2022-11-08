@@ -1,5 +1,5 @@
 # Todo app
-[DEMO LINK](https://Alzay007.github.io/todo-app/)
+[DEMO LINK](https://Alzay007.github.io/TodoApp/)
 
 ## About
 
